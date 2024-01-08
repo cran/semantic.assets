@@ -1,8 +1,11 @@
-fef596eec720d828569ee51a1596ef3b *DESCRIPTION
-90c07401aa558f901f8d5a06aa05bcb4 *NAMESPACE
+f04777f0042629eecb5d1de0ad4ef5af *DESCRIPTION
+a596fa224bd34b1b9015ec703bb69be2 *NAMESPACE
+ad3e03b69046f41678150a3fbfbf4af9 *NEWS.md
 9af2d77447f5f74ee5f0b8249e32660b *R/themes.R
+9b7e43bd3de13018d322827b024c3961 *R/uirender.R
 ccf11222da701e74623925e6fb8dac4c *README.md
-1337a8c51eb7b75a0c8989f43e022851 *inst/WORDLIST
+8280992981ef14e6fc3ba7416b88b240 *inst/WORDLIST
+51a94c8c98a7f441e867ad8ad1f7976f *inst/htmlwidgets/uirender.yaml
 f2839bdd9e999eacf9bf9691b40ac7c4 *inst/www/shared/semantic/semantic.cerulean.css
 c8a5cd0f5a215a219881b39d19ae5ccf *inst/www/shared/semantic/semantic.cerulean.min.css
 23a625c7e108d3ba9b32bb609beba99f *inst/www/shared/semantic/semantic.cosmo.css
@@ -37,6 +40,7 @@ c767a672db6531950b39f2cf0f0fa36f *inst/www/shared/semantic/semantic.solar.min.cs
 ffc1238228b01ddc995e383add8b4199 *inst/www/shared/semantic/semantic.spacelab.min.css
 5acedc5b667d2d848f956850ea1e485c *inst/www/shared/semantic/semantic.superhero.css
 d65ec6082317cd9886e2fae166d88097 *inst/www/shared/semantic/semantic.superhero.min.css
+2787702230e5d29f4fbb70f2582dc69a *inst/www/shared/semantic/semantic.uirender.min.css
 6a67b5587bef3a1878ade22bd8a5b750 *inst/www/shared/semantic/semantic.united.css
 c61c283b2a8ae686c58d347a8a779650 *inst/www/shared/semantic/semantic.united.min.css
 257d50fd0a3abe69a67992b79ac08500 *inst/www/shared/semantic/semantic.yeti.css
@@ -71,4 +75,6 @@ e79bfd88537def476913f3ed52f4f4b3 *inst/www/shared/semantic/themes/material/asset
 a37b0c01c0baf1888ca812cc0508f6e2 *inst/www/shared/semantic/themes/material/assets/fonts/icons.ttf
 012cf6a10129e2275d79d6adac7f3b02 *inst/www/shared/semantic/themes/material/assets/fonts/icons.woff
 570eb83859dc23dd0eec423a49e147fe *inst/www/shared/semantic/themes/material/assets/fonts/icons.woff2
+da324d2c2da044b1e41b4ec7123167dc *inst/www/shared/semantic/uirender.js
 ec6aad61f21fac0d976e51020b4e4384 *man/SUPPORTED_THEMES.Rd
+56309a8a8e12bf8eb43cae81db66fbb3 *man/uirender.Rd
